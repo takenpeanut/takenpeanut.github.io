@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "Beijing-China"
-title                    : "Yuanfei Wang"
+title                    : "Yicheng Feng"
 title_separator          : "-"
-name                     : &name "Yuanfei Wang"
+name                     : &name "Yicheng Feng"
 description              : &description "Undergraduate at Peking University"
-url                      : https://yuanfei-wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://takenpeanut.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuanfei-wang.github.io"
+repository               : "takenpeanut.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuanfei Wang"
+  name             : "Yicheng Feng"
   avatar           : "profile.png"
   bio              : "Undergraduate at the School of EECS, Peking Unversity"
   location         : "Bejing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "yuanfei_wang@pku.edu.cn"
+  email            : "fyc813@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yuanfei-Wang"
+  github           : "takenpeanut"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Unisonner"
+  twitter          : #"Unisonner"
   vine             :
   weibo            :
   xing             :
