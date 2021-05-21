@@ -26,5 +26,5 @@ Education
 
 # Publication
 
-+ Not yet
++ Currently none
 
