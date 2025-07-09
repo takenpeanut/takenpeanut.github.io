@@ -51,6 +51,72 @@ Wanpeng Zhang, **Yicheng Feng**, Hao Luo, Yijiang Li, Zihao Yue, Sipeng Zheng, Z
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/bpe.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities.**](https://openreview.net/forum?id=3TnLGGHhNx)
+
+Wanpeng Zhang, Zilong Xie, **Yicheng Feng**, Yijiang Li, Xingrun Xing, Sipeng Zheng, Zongqing Lu
+*International Conference on Learning Representations, **ICLR** 2025*
+[[Paper](https://openreview.net/forum?id=3TnLGGHhNx)][[PDF](https://openreview.net/pdf?id=3TnLGGHhNx)][[Code](https://github.com/BeingBeyond/being-vl-0)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Unicode.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Unicode: Learning a unified codebook for multimodal large language models.**](https://arxiv.org/abs/2403.09072)
+
+Sipeng Zheng, Bohan Zhou, **Yicheng Feng**, Ye Wang, Zongqing Lu
+*European Conference on Computer Vision, **ECCV** 2024*
+[[Paper](https://arxiv.org/abs/2403.09072)][[PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01331.pdf)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/LLaMArider.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**LLaMA Rider: Spurring Large Language Models to Explore the OpenWorld.**](https://arxiv.org/abs/2310.08922)
+
+**Yicheng Feng**, Yuxuan Wang, Jiazheng Liu, Sipeng Zheng, Zongqing Lu
+*Findings of the Association for Computational Linguistics, **NAACL** 2024*
+[[Paper](https://arxiv.org/abs/2310.08922)][[PDF](https://aclanthology.org/2024.findings-naacl.292.pdf)][[Code](https://github.com/PKU-RL/LLaMA-Rider)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/SteveEye.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Steve-eye: Equipping llm-based embodied agents with visual perception in open worlds.**](https://openreview.net/forum?id=NltzxpG0nz)
+
+Sipeng Zheng, Jiazheng Liu, **Yicheng Feng**, Zongqing Lu
+*International Conference on Learning Representations, **ICLR** 2024*
+[[Paper](https://openreview.net/forum?id=NltzxpG0nz)][[PDF](https://openreview.net/pdf?id=NltzxpG0nz)][[Code](https://github.com/BAAI-Agents/Steve-Eye)][[Website](https://sites.google.com/view/steve-eye)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/relationship.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Learning Multi-Object Positional Relationships via Emergent Communication.**](https://arxiv.org/abs/2302.08084)
+
+**Yicheng Feng†**, Boshi An†, Zongqing Lu
+*†: equal contribution*
+*The Association for the Advancement of Artificial Intelligence, **AAAI** 2024*
+[[Paper](https://arxiv.org/abs/2302.08084)][[PDF](https://arxiv.org/pdf/2302.08084)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/symbolicmapping.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Multi-Agent Language Learning: Symbolic Mapping.**](https://aclanthology.org/2023.findings-acl.491/)
+
+**Yicheng Feng**, Zongqing Lu
+*Findings of the Association for Computational Linguistics: **ACL** 2023*
+[[Paper](https://aclanthology.org/2023.findings-acl.491/)][[PDF](https://aclanthology.org/2023.findings-acl.491.pdf)]
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
