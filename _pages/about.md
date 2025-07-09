@@ -34,6 +34,7 @@ My research interests lie in Multimodal Large Language Models (MLLMs), Embodied 
 [**VideoOrion: Tokenizing Object Dynamics in Videos.**](https://arxiv.org/abs/2411.16156)
 
 **Yicheng Feng†**, Yijiang Li†, Wanpeng Zhang, Hao Luo, Zihao Yue, Sipeng Zheng, Zongqing Lu
+
 *†: equal contribution*
 *International Conference on Computer Vision, **ICCV** 2025*
 [[Paper](https://arxiv.org/abs/2411.16156)][[PDF](https://arxiv.org/pdf/2411.16156)]
@@ -101,6 +102,7 @@ Sipeng Zheng, Jiazheng Liu, **Yicheng Feng**, Zongqing Lu
 [**Learning Multi-Object Positional Relationships via Emergent Communication.**](https://arxiv.org/abs/2302.08084)
 
 **Yicheng Feng†**, Boshi An†, Zongqing Lu
+
 *†: equal contribution*
 *The Association for the Advancement of Artificial Intelligence, **AAAI** 2024*
 [[Paper](https://arxiv.org/abs/2302.08084)][[PDF](https://arxiv.org/pdf/2302.08084)]
