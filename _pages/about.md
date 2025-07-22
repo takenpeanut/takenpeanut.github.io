@@ -28,6 +28,21 @@ My research interests lie in Multimodal Large Language Models (MLLMs), Embodied 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos.**](https://arxiv.org/abs/2507.15597)
+
+Hao Luo†, **Yicheng Feng†**, Wanpeng Zhang†, Sipeng Zheng†, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu
+
+*†: equal contribution*
+
+*arxiv preprint*
+
+[[Paper](https://arxiv.org/abs/2507.15597)][[PDF](https://arxiv.org/pdf/2507.15597)][[Website](https://beingbeyond.github.io/Being-H0)][[Code](https://github.com/BeingBeyond/Being-H0)][[Huggingface](https://huggingface.co/BeingBeyond/Being-H0)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/VideoOrion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
