@@ -165,5 +165,6 @@ Sipeng Zheng, Jiazheng Liu, **Yicheng Feng**, Zongqing Lu
 - *2017.09 - 2021.06*: **B.Sc. in Intelligent Science and Technology, Peking University**
 
 # 💻 Internships
-- *2025.03 - Present*, **BeingBeyond** *Multimodal LLMs / Embodied AI*
+- *2025.08 - Present*, **ByteDance Seed** *Multimodal Understanding & Generation Models*
+- *2025.03 - 2025.08*, **BeingBeyond** *Multimodal LLMs / Embodied AI*
 - *2023.03 - 2025.03*, **Beijing Academy of Artificial Intelligence (BAAI)** *Multimodal LLMs / Embodied AI*
