@@ -23,6 +23,7 @@ My research interests lie in Multimodal Large Language Models (MLLMs), Embodied 
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 Two papers accepted by ICCV 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by ICLR 2025.
 
@@ -40,6 +41,18 @@ Hao Luo†, **Yicheng Feng†**, Wanpeng Zhang†, Sipeng Zheng†, Ye Wang, Hao
 *arxiv preprint*
 
 [[Paper](https://arxiv.org/abs/2507.15597)][[PDF](https://arxiv.org/pdf/2507.15597)][[Website](https://beingbeyond.github.io/Being-H0)][[Code](https://github.com/BeingBeyond/Being-H0)][[Huggingface](https://huggingface.co/BeingBeyond/Being-H0)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/openmmego.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**OpenMMEgo: Enhancing Egocentric Understanding for LMMs with Open Weights and Data.**
+
+Hao Luo, Zihao Yue, Wanpeng Zhang, **Yicheng Feng**, Sipeng Zheng, Deheng Ye, Zongqing Lu
+
+*Conference on Neural Information Processing Systems, **NeurIPS** 2025*
+
 </div>
 </div>
 
