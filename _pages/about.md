@@ -35,7 +35,7 @@ My research interests lie in Multimodal Large Language Models (MLLMs), Embodied 
 
 [**Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos**](https://arxiv.org/abs/2512.13080)
 
-Hao Luo, Ye Wang, Wanpeng Zhang, Haoqi Yuan, **Yicheng Feng**, Haiweng Xu, Sipeng Zheng, Zongqing Lu
+**Yicheng Feng**, Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, Sipeng Zheng, Zongqing Lu
 
 *The IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR** 2026*
 
