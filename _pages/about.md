@@ -23,6 +23,7 @@ My research interests lie in Multimodal Large Language Models (MLLMs), Embodied 
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Two papers accepted by CVPR 2026.
 - *2025.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 Two papers accepted by ICCV 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by ICLR 2025.
