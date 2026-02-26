@@ -104,7 +104,7 @@ Hao Luo†, **Yicheng Feng†**, Wanpeng Zhang†, Sipeng Zheng†, Ye Wang, Hao
 
 [**Being-0: A humanoid robotic agent with vision-language models and modular skills**](https://arxiv.org/abs/2503.12533)
 
-Haoqi Yuan, Yu Bai, Yuhui Fu, Bohan Zhou, **Yicheng Feng†**, Xinrun Xu, Yi Zhan, Borje F. Karlsson, Zongqing Lu
+Haoqi Yuan, Yu Bai, Yuhui Fu, Bohan Zhou, **Yicheng Feng**, Xinrun Xu, Yi Zhan, Borje F. Karlsson, Zongqing Lu
 
 *arxiv preprint*
 
