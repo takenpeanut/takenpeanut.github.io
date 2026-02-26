@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year PhD student in the [**School of Computer Science**](https://cs.pku.edu.cn/) at [**Peking University**](https://www.pku.edu.cn/), advised by Prof. [**Zongqing Lu**](https://z0ngqing.github.io/). I received my Bachelor's degree in 2021 from the **School of Information Science and Technology** at **PKU**.
+I am a fifth-year PhD student in the [**School of Computer Science**](https://cs.pku.edu.cn/) at [**Peking University**](https://www.pku.edu.cn/), advised by Prof. [**Zongqing Lu**](https://z0ngqing.github.io/). I received my Bachelor's degree in 2021 from the **School of Information Science and Technology** at **PKU**.
 
 My research interests lie in Multimodal Large Language Models (MLLMs), Embodied Artificial Intelligence, and Reinforcement Learning. In particular, I focus on vision-language understanding and generation, vision-language-action (VLA) modeling, and LLM-based autonomous agents.
 
@@ -29,6 +29,60 @@ My research interests lie in Multimodal Large Language Models (MLLMs), Embodied 
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by ICLR 2025.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/vipa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos**](https://arxiv.org/abs/2512.13080)
+
+Hao Luo, Ye Wang, Wanpeng Zhang, Haoqi Yuan, **Yicheng Feng**, Haiweng Xu, Sipeng Zheng, Zongqing Lu
+
+*The IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR** 2026*
+
+[[Paper](https://arxiv.org/abs/2512.13080)][[PDF](https://arxiv.org/pdf/2512.13080)][[Website](https://research.beingbeyond.com/vipa-vla)][[Code](https://github.com/BeingBeyond/VIPA-VLA)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/jala.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild**](https://arxiv.org/abs/2602.21736)
+
+Hao Luo, Ye Wang, Wanpeng Zhang, Haoqi Yuan, **Yicheng Feng**, Haiweng Xu, Sipeng Zheng, Zongqing Lu
+
+*The IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR** 2026*
+
+[[Paper](https://arxiv.org/abs/2602.21736)][[PDF](https://arxiv.org/pdf/2602.21736)][[Website](https://research.beingbeyond.com/jala)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/beingh05.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization**](https://arxiv.org/abs/2601.129937)
+
+Hao Luo†, Ye Wang†, Wanpeng Zhang†, Sipeng Zheng†, Ziheng Xi, Chaoyi Xu, Haiweng Xu, Haoqi Yuan, Chi Zhang, Yiqing Wang, **Yicheng Feng**, Zongqing Lu
+
+*†: equal contribution*
+
+*arxiv preprint*
+
+[[Paper](https://arxiv.org/abs/2601.12993)][[PDF](https://arxiv.org/pdf/2601.12993)][[Website](https://research.beingbeyond.com/being-h05)][[Code](https://github.com/BeingBeyond/Being-H)][[Huggingface](https://huggingface.co/collections/BeingBeyond/being-h05)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/dig-flow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models**](https://arxiv.org/abs/2512.01715)
+
+Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, **Yicheng Feng**, Sipeng Zheng, Qin Jin, Zongqing Lu
+
+*arxiv preprint*
+
+[[Paper](https://arxiv.org/abs/2512.01715)][[PDF](https://arxiv.org/pdf/2512.01715)][[Website](https://beingbeyond.github.io/DiG-Flow)][[Code](https://github.com/BeingBeyond/DiG-Flow)]
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,6 +96,19 @@ Hao Luo†, **Yicheng Feng†**, Wanpeng Zhang†, Sipeng Zheng†, Ye Wang, Hao
 *arxiv preprint*
 
 [[Paper](https://arxiv.org/abs/2507.15597)][[PDF](https://arxiv.org/pdf/2507.15597)][[Website](https://beingbeyond.github.io/Being-H0)][[Code](https://github.com/BeingBeyond/Being-H0)][[Huggingface](https://huggingface.co/BeingBeyond/Being-H0)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/being-0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Being-0: A humanoid robotic agent with vision-language models and modular skills**](https://arxiv.org/abs/2503.12533)
+
+Haoqi Yuan, Yu Bai, Yuhui Fu, Bohan Zhou, **Yicheng Feng†**, Xinrun Xu, Yi Zhan, Borje F. Karlsson, Zongqing Lu
+
+*arxiv preprint*
+
+[[Paper](https://arxiv.org/abs/2503.12533)][[PDF](https://arxiv.org/pdf/2503.12533)][[Website](https://beingbeyond.github.io/Being-0)][[Code](https://github.com/BeingBeyond/Being-0)]
 </div>
 </div>
 
@@ -179,6 +246,7 @@ Sipeng Zheng, Jiazheng Liu, **Yicheng Feng**, Zongqing Lu
 - *2017.09 - 2021.06*: **B.Sc. in Intelligent Science and Technology, Peking University**
 
 # 💻 Internships
-- *2025.08 - Present*, **ByteDance Seed** *Multimodal Understanding & Generation Models*
+- *2026.02 - Present*, **BeingBeyond** *Embodied AI*
+- *2025.08 - 2026.02*, **ByteDance Seed** *Video Generation Models*
 - *2025.03 - 2025.08*, **BeingBeyond** *Multimodal LLMs / Embodied AI*
 - *2023.03 - 2025.03*, **Beijing Academy of Artificial Intelligence (BAAI)** *Multimodal LLMs / Embodied AI*
